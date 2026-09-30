@@ -52,15 +52,9 @@ Einstieg in die App: `app.kimatik.com/registrieren?dma=<ID>` (optional mit `&pri
 | `/benachrichtigungen` | Platzhalter | nein |
 | `/checkout`, `/checkout-erfolg` | Abo-Abschluss | nein |
 
-**Weiterleitungen alter Pfade:**
-- `/neuer-chat`, `/uebersicht`, `/berichte` → `/`.
-- `/chat`, `/chat/legacy` → passender Chat bzw. `/chats`.
-- `/werkzeuge`, `/werkzeuge/<ID>` → `/apps`, `/apps/<ID>`.
-- `/teammitglied-anpassen/<ID>` → Detailseite des Teammitglieds.
-
 ### B.4 Direktlinks & IDs
 
-Registrierungslink: `app.kimatik.com/registrieren?dma=<ID>`. Er funktioniert nur für „Sofort verfügbar“. „Plattform“ bedeutet: Die ID ist in der Plattform angelegt. „Website“ bedeutet: Die ID steht auf der Website, ein Plattform-Eintrag ist noch nicht nachgewiesen.
+Registrierungslink: `app.kimatik.com/registrieren?dma=<ID>`. Er funktioniert nur für „Sofort verfügbar“. 
 
 | Teammitglied | Status | ID | Herkunft |
 | --- | --- | --- | --- |
