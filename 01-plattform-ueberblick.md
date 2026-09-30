@@ -1,3 +1,8 @@
+---
+title: Plattform-Überblick
+description: Was kimatik ist, für wen die Plattform gedacht ist und welchen Nutzen sie bringt.
+---
+
 ## 1. Plattform-Überblick
 
 ### 1.1 Was ist kimatik?

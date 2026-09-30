@@ -1,3 +1,8 @@
+---
+title: Recht, Sicherheit und Compliance
+description: Datenschutz, Sicherheit, Human-in-the-Loop und die KI-Kennzeichnung nach dem EU AI Act.
+---
+
 ## 10. Recht, Sicherheit & Compliance
 
 ### 10.1 Anbieter

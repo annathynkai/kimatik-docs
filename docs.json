@@ -1,0 +1,99 @@
+{
+  "$schema": "https://context7.com/schema/docs7.json",
+  "name": "kimatik",
+  "description": "Plattform-Dokumentation von kimatik: digitale Teammitglieder, Customer Journey, Abo und Credits, Funktionen, Integrationen sowie Recht und Compliance.",
+  "logo": {
+    "light": "/logo/wordmark-black.png",
+    "dark": "/logo/wordmark-white.png",
+    "href": "https://kimatik.com"
+  },
+  "favicon": "/logo/favicon.png",
+  "colors": {
+    "primary": "#2D32F0",
+    "light": "#8B8EF6",
+    "dark": "#2D32F0"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Space Grotesk",
+      "weight": 700
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 400
+    }
+  },
+  "appearance": {
+    "default": "light"
+  },
+  "background": {
+    "color": {
+      "light": "#FAFBFC",
+      "dark": "#1B171A"
+    }
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Website",
+        "href": "https://kimatik.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Zur App",
+      "href": "https://app.kimatik.com"
+    }
+  },
+  "search": {
+    "prompt": "Dokumentation durchsuchen"
+  },
+  "filterSidebar": true,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Einstieg",
+        "pages": ["00-index"]
+      },
+      {
+        "group": "Plattform",
+        "pages": [
+          "01-plattform-ueberblick",
+          "02-unsere-digitalen-teammitglieder",
+          "03-customer-journey",
+          "04-authentifizierung-und-konto"
+        ]
+      },
+      {
+        "group": "Abo und Preise",
+        "pages": [
+          "05-abo-credits-und-preise",
+          "06-rabatte-und-kampagnen"
+        ]
+      },
+      {
+        "group": "Produkt",
+        "pages": [
+          "07-funktionen-im-detail",
+          "08-integrationen",
+          "09-support-oeffentlich"
+        ]
+      },
+      {
+        "group": "Recht und Ausblick",
+        "pages": [
+          "10-recht-sicherheit-und-compliance",
+          "11-roadmap"
+        ]
+      },
+      {
+        "group": "Anhang",
+        "pages": [
+          "anhang-a-glossar-a-z",
+          "anhang-b-routing-uebersicht",
+          "anhang-c-versions-und-aenderungsverlauf"
+        ]
+      }
+    ]
+  }
+}

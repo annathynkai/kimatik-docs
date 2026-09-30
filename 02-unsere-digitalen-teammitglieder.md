@@ -1,3 +1,8 @@
+---
+title: Digitale Teammitglieder
+description: Die digitalen Mitarbeitenden von kimatik, ihre Aufgaben und wie sie eingeschult werden.
+---
+
 ## 2. Unsere digitalen Teammitglieder
 
 Jedes digitale Teammitglied hat eine klare Rolle, Fähigkeiten, Beispielaufgaben mit Credit-Richtwerten und — wo verfügbar — eigene Apps. Die Auswahl erfolgt über den Marktplatz auf `kimatik.com/digitale-mitarbeitende` bzw. über den Team-Builder auf `kimatik.com/einschulen`.

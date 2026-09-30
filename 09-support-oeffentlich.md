@@ -1,3 +1,8 @@
+---
+title: Support
+description: Öffentliche Support-Wissensbasis und häufige Fragen.
+---
+
 ## 9. Support-Wissensbasis (öffentlich)
 
 **Kontakt:** `office@kimatik.com` · Kontaktformular `kimatik.com/kontakt` · persönlicher Support aus Österreich.

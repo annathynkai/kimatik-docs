@@ -1,3 +1,8 @@
+---
+title: Versions- und Änderungsverlauf
+description: Versionen dieser Dokumentation und was sich geändert hat.
+---
+
 ## C. Versions- & Änderungsverlauf
 
 | Version | Datum | Änderungen |

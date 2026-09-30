@@ -1,3 +1,8 @@
+---
+title: Integrationen
+description: E-Mail-Eingang, Verbindungen, KI-Modelle, Stripe und was nicht angebunden ist.
+---
+
 ## 8. Integrationen
 
 ### 8.1 E-Mail-Eingang

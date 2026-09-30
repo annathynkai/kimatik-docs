@@ -1,3 +1,8 @@
+---
+title: Funktionen im Detail
+description: Chat, Apps, Tabellen, Galerie und die KI-Kennzeichnung in der App.
+---
+
 ## 7. Funktionen im Detail
 
 ### 7.1 Navigation & Aufbau der App

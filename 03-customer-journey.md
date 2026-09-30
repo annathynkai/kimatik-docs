@@ -1,3 +1,8 @@
+---
+title: Customer Journey
+description: Weg von der Website über Registrierung, E-Mail-Bestätigung und Abo bis zur Einschulung.
+---
+
 ## 3. Customer Journey
 
 Die Reise vom ersten Websitebesuch bis zur produktiven Nutzung in sechs Schritten.

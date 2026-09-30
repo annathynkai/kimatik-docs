@@ -1,3 +1,8 @@
+---
+title: Übersicht
+description: Index der kimatik Plattform-Dokumentation, Stand und Schreibkonventionen.
+---
+
 # kimatik Plattform-Dokumentation — Übersicht (Index)
 
 > Diese Dokumentation ist in Einzeldateien pro Hauptkapitel aufgeteilt.

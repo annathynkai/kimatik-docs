@@ -1,3 +1,8 @@
+---
+title: Roadmap
+description: Geplante Funktionen, die noch nicht im produktiven Stand der App sind.
+---
+
 ## Roadmap
 
 Funktionen, die noch nicht für alle Konten verfügbar sind. Stand: 30. September 2026.

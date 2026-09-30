@@ -1,3 +1,8 @@
+---
+title: Abo, Credits und Preise
+description: Credit-Verbrauch, Abo-Pakete, Checkout, Top-up und Kündigung.
+---
+
 ## 5. Abo, Credits & Preise
 
 ### 5.1 Das Modell in einem Satz

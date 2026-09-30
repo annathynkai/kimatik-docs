@@ -1,3 +1,8 @@
+---
+title: Authentifizierung und Konto
+description: Anmeldung, Konto und die Einstellungen rund um das kimatik-Konto.
+---
+
 ## 4. Authentifizierung & Konto
 
 ### 4.1 Anmeldung

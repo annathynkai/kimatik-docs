@@ -1,3 +1,8 @@
+---
+title: Glossar A–Z
+description: Begriffe der kimatik-Plattform von Abo bis Unternehmenswissen.
+---
+
 ## A. Glossar A–Z
 
 - **Abo:** Monatliches kimatik-Abonnement mit festem Credit-Kontingent; alle einschulbaren digitalen Mitarbeitenden sind enthalten. Monatlich kündbar über Stripe.

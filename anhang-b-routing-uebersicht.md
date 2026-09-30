@@ -1,3 +1,8 @@
+---
+title: Routing-Übersicht
+description: App-Pfade, Direktlinks und die IDs der Teammitglieder.
+---
+
 ## B. Routing-Übersicht
 
 ### B.1 Website (`kimatik.com`)

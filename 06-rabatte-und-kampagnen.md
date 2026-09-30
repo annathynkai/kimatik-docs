@@ -1,3 +1,8 @@
+---
+title: Rabatte und Kampagnen
+description: Aktionscodes, Rabatte und Kampagnen im Checkout.
+---
+
 ## 6. Rabatte & Kampagnen
 
 > Aktive Rabattaktionen werden ausschließlich in diesem Kapitel dokumentiert. Konkrete Aktionscodes werden in dieser Dokumentation nicht genannt.
