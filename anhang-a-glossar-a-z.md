@@ -1,0 +1,48 @@
+## A. Glossar A–Z
+
+- **Abo:** Monatliches kimatik-Abonnement mit festem Credit-Kontingent; alle einschulbaren digitalen Mitarbeitenden sind enthalten. Monatlich kündbar über Stripe.
+- **Abo-Credits:** Monatliches Credit-Kontingent aus dem Abo; wird vor den Top-Up-Credits verbraucht.
+- **Alina Allrounder:** Allgemeine Assistentin, automatisch in jedem Konto; früher „Oliver Allrounder“.
+- **App:** Spezialisierte Oberfläche eines oder mehrerer Teammitglieder (z. B. Buchhaltung, Redaktionsplan). Früher „Werkzeug“ (`/werkzeuge` → `/apps`). Auf der Website noch „Werkzeug“: gemeinsame Arbeitsfläche, an der mehrere Teammitglieder zusammenarbeiten.
+- **App-Gate:** Vorschau einer noch nicht freigeschalteten App mit Beispieldaten und dem Dialog „So bekommst du diese App“.
+- **Auf Anfrage:** Website-Status für noch nicht selbst einschulbare Teammitglieder; in der App „Bald verfügbar“ mit dem Button **Anfragen**.
+- **Aufhänger (Hook):** Einstiegssatz eines Social-Media-Posts; Sven schlägt Varianten vor.
+- **Autorisierte Absender:** Freigegebene E-Mail-Absender für den E-Mail-Eingang (Ivana, Stefan, Bernhard). Auf der Website „Freigabeliste“: nur Nachrichten von diesen Absendern werden verarbeitet, andere erhalten eine automatische Ablehnung. Früher „Whitelist“.
+- **AVV:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO (`kimatik.com/avv`).
+- **Bald verfügbar:** App-Bezeichnung für „Auf Anfrage“.
+- **Beleg prüfen:** Prüfdialog bei Ivana (Original und Formular); Abschluss mit **Speichern & freigeben**.
+- **Beleg-Tabelle:** Strukturierte Übersicht der erfassten Rechnungen und Belege, sortierbar, filterbar und exportierbar (Website-Begriff für Ivanas Rechnungs-Tab).
+- **Briefing:** Informationen, die ein Teammitglied in der Einschulung bekommt (Marke, Tonalität, Zielgruppe …); später unter **Vorgaben anpassen** änderbar.
+- **Buchungen:** Bank-Tab in Ivanas Buchhaltung (CSV-Import, Zuordnung, Importhistorie).
+- **Credit:** Verbrauchseinheit; der Verbrauch richtet sich nach Aufgabe und Komplexität.
+- **Differenzgrund:** Begründung für Betragsabweichungen beim Zuordnen einer Buchung (z. B. Skonto, Mahngebühren).
+- **Digitale Mitarbeitende / Teammitglieder (DMA):** Spezialisierte KI-Assistenten mit fester Rolle. Auf der Website: sie arbeiten wie Teammitglieder, nicht wie ein einzelnes Chat-Fenster.
+- **Dokumentenablage:** Website-Begriff für die zentrale Ablage von Dokumenten wie Sicherheitsdatenblättern oder Bescheiden, die Teammitglieder auslesen und strukturieren.
+- **DSGVO-konform:** Hosting und Verarbeitung in der EU, mit Auftragsverarbeitungsvertrag (AVV).
+- **E/A-Rechnung:** Einnahmen-Ausgaben-Rechnung in Ivanas Buchhaltung.
+- **Einschulung:** Hinzufügen eines Teammitglieds und anschließender Einschulungs-Chat (früher „Onboarding“ bzw. „Rekrutieren“).
+- **Enrollment:** Technische Verknüpfung eines Kontos mit einem Teammitglied (in URLs als Enrollment-ID).
+- **Expertin:** Umschaltbarer Modus bei Alina für komplexe Aufgaben (~3× Credits). Auf der Website „Experte“.
+- **Freigabe:** Explizite Bestätigung, bevor ein Ergebnis veröffentlicht oder weiterverarbeitet wird. Nichts geht ohne diese Freigabe raus.
+- **Galerie / Mediengalerie:** Zentrale Ablage für Bilder und Videos (Penelope, Viola), auf der Website mit Posts im Redaktionsplan verknüpft.
+- **Gefahrenzone:** Einstellungs-Tab zum Löschen des Kontos.
+- **Geld-zurück-Garantie:** Laut Website 30 Tage.
+- **Hinweise:** Tabellenspalte mit Warnungen (Duplikat, unsichere Werte, Prüfbedarf); lässt sich ausblenden.
+- **Human-in-the-Loop:** Die KI bereitet vor, der Mensch prüft und gibt frei. In den AGB als Pflicht der Kund:innen verankert.
+- **Importhistorie:** Liste früherer Bank-CSV-Importe mit Download.
+- **KI-Kennzeichnung:** Schalter zum sichtbaren Markieren von Bildern als KI-generiert (EU AI Act).
+- **kimatik:** Der erste Personalverleih für dein AI-Team: fertige digitale Mitarbeitende mieten statt selbst bauen. Einsatzbereit in Minuten. Ein Abo, alle digitalen Mitarbeitenden.
+- **LGK (Lagerklasse):** Lagerklasse nach TRGS 510, die Stefan automatisch ableitet.
+- **News / News-Übersicht:** App von Nina mit recherchierten Artikeln, Quellen und Kurzfassungen als Grundlage für Posts, Artikel und Newsletter.
+- **Personalverleih:** Geschäftsmodell von kimatik: digitale Mitarbeitende per Abo statt Einzellizenzen.
+- **Profil:** Variante eines Teammitglieds mit eigenen Vorgaben, eigener Farbe und eigener Einschulung; beliebig viele pro Teammitglied.
+- **Redaktionsplan:** Gemeinsame App für Posts und Texte (Sven, Theo) mit den Status Entwurf, Geplant und Veröffentlicht.
+- **Team-Übergabe / Weitergabe:** Übergabe einer Anfrage an ein anderes Teammitglied per Karte im Chat (neuer Chat).
+- **thynkAI:** Früherer Markenname von kimatik.
+- **Top-Up:** Zusätzliches Credit-Paket für Abonnent:innen (1–10 Pakete pro Kauf); verfällt nicht.
+- **Unternehmenswissen:** Beta-Funktion für Firmendokumente, die die Teammitglieder im Chat durchsuchen. Details in `11-roadmap.md`.
+- **UVA:** Umsatzsteuervoranmeldung in Ivanas Buchhaltung (Soll/Ist, monatlich, quartalsweise oder jährlich).
+- **Verbindungen:** Einstellungs-Tab für Outlook und ClickUp.
+- **Vorgaben:** Die in der Einschulung gesammelten Einstellungen eines Profils.
+
+---
