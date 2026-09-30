@@ -23,9 +23,9 @@ Credits sind die Verbrauchseinheit von kimatik. Verbraucht wird bei Chat-Antwort
 | Alina | Allgemeine Anfrage | ca. 1 (je nach Komplexität); Expertin ca. 3× |
 | Ivana | Rechnung verbuchen | ca. 2 |
 | Penelope | Bild erstellen | ca. 16 |
-| Sven | Social-Media-Post | ca. 10 |
-| Sven | Wochenplan | ca. 12 |
-| Sven | Post optimieren | ca. 4 |
+| Sven | Social-Media-Post | ca. 5 |
+| Sven | Wochenplan | ca. 10 |
+| Sven | Post optimieren | ca. 2 |
 | Stefan | Sicherheitsdatenblatt | ca. 50 |
 | Bernhard | Bescheid | ca. 50 |
 | Nina *(auf Anfrage)* | Recherche | ca. 2 |
@@ -41,14 +41,14 @@ Beispiel Website: „90 Credits ≈ 45 Beleg-Verarbeitungen“ bei Ivana.
 
 ### 5.3 Abo-Pakete
 
-Die Pakete werden **live aus Stripe** geladen (App-Checkout und Website). Standardauswahl auf der Website: 90 Credits. Aktueller Katalog bzw. Website-Fallback:
+Die Pakete werden **live aus Stripe** geladen (App-Checkout und Website). Aktueller Katalog bzw. Website-Fallback:
 
 | Credits / Monat | Preis / Monat (netto) |
 | --- | --- |
 | 90 | 9 € |
 | 250 | 25 € |
 | 500 | 50 € |
-| 1.000 (beliebt) | 100 € |
+| 1.000 | 100 € |
 | 2.500 | 250 € |
 | 6.000 | 600 € |
 
@@ -56,17 +56,14 @@ Die Pakete werden **live aus Stripe** geladen (App-Checkout und Website). Standa
 
 ### 5.4 Checkout (`/checkout`)
 
-- Überschrift „Ein Abo. Alle Teammitglieder.“; Paketauswahl (vorausgewählt: Paket aus dem Link, sonst „beliebt“, sonst das günstigste).
 - Buttons **Jetzt einschulen** bzw. **Jetzt Abo abschließen**; Hinweis „Sichere Bezahlung über Stripe“; Link „Mehr Infos zu Credits“ → `kimatik.com/preise`.
 - Bezahlung auf der Stripe-Checkout-Seite (dort auch Eingabefeld für Aktionscodes).
-- Ohne Login leitet `/checkout` zur Registrierung weiter.
-- Erfolg: `/checkout-erfolg` bzw. direkt weiter in die Einschulung des gewählten Teammitglieds.
 
 ### 5.5 Credits aufladen (Top-Up)
 
 - `/credits-aufladen` — **nur mit aktivem Abo** (sonst Weiterleitung zu `/checkout`).
-- **1 bis 10 Pakete** pro Kauf (Schieberegler), Bezahlung über Stripe. Paketgröße und Preis kommen aus dem Stripe-Top-Up-Produkt.
-- „Top-Up-Credits verfallen nicht. Sie werden erst verbraucht, sobald die monatlichen Abo-Credits vollständig eingesetzt wurden.“
+- **1 bis 10 Pakete** pro Kauf (Schieberegler), Bezahlung über Stripe.
+- Top-Up-Credits verfallen nicht. Sie werden erst verbraucht, sobald die monatlichen Abo-Credits vollständig eingesetzt wurden.
 
 ### 5.6 Verbrauchsreihenfolge
 
@@ -86,7 +83,7 @@ Ohne aktives Abo sind Chat und Apps gesperrt (Weiterleitung zu `/checkout`).
 ### 5.8 Kündigung
 
 - Monatlich kündbar, keine Mindestlaufzeit; Kündigung über **Abo kündigen** (Stripe-Portal) zum Ende der laufenden Periode.
-- Nach der Kündigung zeigt die App: „Abo gekündigt. Dein digitales Team ist noch bis {Datum} einsatzbereit.“ mit **Abo jetzt erneuern**.
+- Nach der Kündigung zeigt die App: „Abo gekündigt. Dein digitales Team ist noch bis {Datum} einsatzbereit.“.
 - Nach Periodenende sind Chat und Apps gesperrt.
 - **Einzelne Teammitglieder** können Kund:innen in der App nicht selbst abmelden. Das erledigt das kimatik-Team auf Anfrage. Ein abgemeldetes Teammitglied kann später wieder eingeschult werden.
 - **Geld-zurück-Garantie:** Laut Website 30 Tage („Wenn dich dein digitales Team nicht überzeugt, bekommst du dein Geld zurück.“). Abwicklung über den Support.
