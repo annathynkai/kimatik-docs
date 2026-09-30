@@ -16,8 +16,6 @@ Statt Technologie verkauft kimatik produktive digitale Mitarbeitende inklusive a
 
 Mission: EPUs und KMUs die Nutzung moderner KI so einfach wie möglich machen — Zugriff auf spezialisierte Agenten, die mit den eigenen Tools arbeiten, ohne technisches Verständnis. Die Einschulung läuft über einen Chat. So wird Technologie, die sonst großen Unternehmen mit eigenen IT-Teams vorbehalten ist, für jedes Unternehmen zugänglich.
 
-Vision: Jedes KMU im DACH-Raum hat in fünf Jahren mindestens ein digitales Teammitglied im produktiven Einsatz.
-
 ### 1.3 Die Herausforderung unserer Kund:innen
 
 - **Vom Testen ins Tun:** Viele Unternehmen probieren KI aus — sobald es an echte Prozesse geht, bleibt der Sprung in den produktiven Einsatz aus.
