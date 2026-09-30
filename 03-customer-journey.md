@@ -21,7 +21,7 @@ Auf `kimatik.com` lernen Besucher:innen das Personalverleih-Konzept kennen. Wich
 
 ### 3.3 Schritt 3: E-Mail bestätigen
 
-Nach dem Absenden kommt ein **6-stelliger Bestätigungscode** per E-Mail (gültig 60 Minuten, erneut anforderbar nach 60 Sekunden). Nach Eingabe erscheint „E-Mail erfolgreich bestätigt!“ mit **Onboarding starten** bzw. **Weiter zum Checkout**. Das Teammitglied aus dem Link wird dabei als Enrollment angelegt; **Alina** kommt automatisch dazu.
+Nach dem Absenden kommt ein **6-stelliger Bestätigungscode** per E-Mail (gültig 60 Minuten, erneut anforderbar nach 60 Sekunden). Nach Eingabe erscheint „E-Mail erfolgreich bestätigt!“ mit **Onboarding starten** bzw. **Weiter zum Checkout**. Das Teammitglied aus dem Link wird angelegt; **Alina** kommt automatisch dazu.
 
 ### 3.4 Schritt 4: Abo abschließen
 
