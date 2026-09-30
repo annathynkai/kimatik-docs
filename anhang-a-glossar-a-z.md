@@ -3,11 +3,10 @@
 - **Abo:** Monatliches kimatik-Abonnement mit festem Credit-Kontingent; alle einschulbaren digitalen Mitarbeitenden sind enthalten. Monatlich kündbar über Stripe.
 - **Abo-Credits:** Monatliches Credit-Kontingent aus dem Abo; wird vor den Top-Up-Credits verbraucht.
 - **Alina Allrounder:** Allgemeine Assistentin, automatisch in jedem Konto; früher „Oliver Allrounder“.
-- **App:** Spezialisierte Oberfläche eines oder mehrerer Teammitglieder (z. B. Buchhaltung, Redaktionsplan). Früher „Werkzeug“ (`/werkzeuge` → `/apps`). Auf der Website noch „Werkzeug“: gemeinsame Arbeitsfläche, an der mehrere Teammitglieder zusammenarbeiten.
-- **App-Gate:** Vorschau einer noch nicht freigeschalteten App mit Beispieldaten und dem Dialog „So bekommst du diese App“.
+- **App:** Spezialisierte Oberfläche eines oder mehrerer Teammitglieder (z. B. Buchhaltung, Redaktionsplan). Gemeinsame Arbeitsfläche, an der mehrere Teammitglieder zusammenarbeiten.
 - **Auf Anfrage:** Website-Status für noch nicht selbst einschulbare Teammitglieder; in der App „Bald verfügbar“ mit dem Button **Anfragen**.
 - **Aufhänger (Hook):** Einstiegssatz eines Social-Media-Posts; Sven schlägt Varianten vor.
-- **Autorisierte Absender:** Freigegebene E-Mail-Absender für den E-Mail-Eingang (Ivana, Stefan, Bernhard). Auf der Website „Freigabeliste“: nur Nachrichten von diesen Absendern werden verarbeitet, andere erhalten eine automatische Ablehnung. Früher „Whitelist“.
+- **Autorisierte Absender:** Freigegebene E-Mail-Absender für den E-Mail-Eingang (Ivana, Stefan, Bernhard). Auf der Website „Freigabeliste“: nur Nachrichten von diesen Absendern werden verarbeitet, andere erhalten eine automatische Ablehnung.
 - **AVV:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO (`kimatik.com/avv`).
 - **Bald verfügbar:** App-Bezeichnung für „Auf Anfrage“.
 - **Beleg prüfen:** Prüfdialog bei Ivana (Original und Formular); Abschluss mit **Speichern & freigeben**.
@@ -21,7 +20,6 @@
 - **DSGVO-konform:** Hosting und Verarbeitung in der EU, mit Auftragsverarbeitungsvertrag (AVV).
 - **E/A-Rechnung:** Einnahmen-Ausgaben-Rechnung in Ivanas Buchhaltung.
 - **Einschulung:** Hinzufügen eines Teammitglieds und anschließender Einschulungs-Chat (früher „Onboarding“ bzw. „Rekrutieren“).
-- **Enrollment:** Technische Verknüpfung eines Kontos mit einem Teammitglied (in URLs als Enrollment-ID).
 - **Expertin:** Umschaltbarer Modus bei Alina für komplexe Aufgaben (~3× Credits). Auf der Website „Experte“.
 - **Freigabe:** Explizite Bestätigung, bevor ein Ergebnis veröffentlicht oder weiterverarbeitet wird. Nichts geht ohne diese Freigabe raus.
 - **Galerie / Mediengalerie:** Zentrale Ablage für Bilder und Videos (Penelope, Viola), auf der Website mit Posts im Redaktionsplan verknüpft.
