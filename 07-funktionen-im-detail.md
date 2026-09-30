@@ -58,7 +58,7 @@
 - **Nicht vorhanden:** Daumen-Bewertung pro Nachricht, Credit-Anzeige pro Nachricht, Gruppenchat mit mehreren Teammitgliedern.
 
 #### Modus „Expertin“ (nur Alina)
-Schalter im Eingabefeld. Banner: „Expertin: Höchste logische Präzision und tiefere Analysen für komplexe Aufgaben (~3x Credits)“. Im Hintergrund arbeitet ein leistungsstärkeres, vorkonfiguriertes Modell. Welches, wird nicht kommuniziert. Ein Modell kann man nicht selbst auswählen.
+Schalter im Eingabefeld. Banner: „Expertin: Höchste logische Präzision und tiefere Analysen für komplexe Aufgaben (~3x Credits)“. Im Hintergrund arbeitet ein leistungsstärkeres, vorkonfiguriertes Modell. Ein Modell kann man nicht selbst auswählen.
 
 ### 7.3 Apps
 
@@ -67,9 +67,8 @@ Apps sind spezialisierte Oberflächen für strukturierte Daten.
 - **App eines Teammitglieds:** `/apps/<Enrollment-ID>`.
 - Alle Apps setzen ein aktives Abo voraus.
 
-**App noch nicht freigeschaltet (`/apps/gate/…`):**
-- Es erscheint eine **Live-Vorschau** der echten App mit Beispieldaten, die sich nicht bearbeiten lässt.
-- Dazu kommt der Dialog **„So bekommst du diese App“** mit den passenden Teammitgliedern und dem Button **Einschulen** (sofort verfügbar) oder **Anfragen** / **Angefragt** (auf Anfrage).
+**App noch nicht freigeschaltet:**
+- Mittels Klick auf eine App erscheint der Dialog **„So bekommst du diese App“** mit den passenden Teammitgliedern und dem Button **Einschulen** (sofort verfügbar) oder **Anfragen** / **Angefragt** (auf Anfrage).
 
 | App | Teammitglied(er) | Kurzbeschreibung |
 | --- | --- | --- |
@@ -78,7 +77,7 @@ Apps sind spezialisierte Oberflächen für strukturierte Daten.
 | **Galerie** | Penelope (Viola liefert zu) | Medien zentral speichern und wiederverwenden |
 | **News** | Nina | Relevante Branchennews im Blick behalten |
 | **Bescheide** | Bernhard | Bescheide erfassen und verwalten |
-| **Sicherheitsdatenblätter** | Stefan | Sicherheitsdatenblätter archivieren und abrufen |
+| **Sicherheitsdatenblätter** | Stefan | Sicherheitsdatenblätter erfassen und verwalten |
 | **Videopräsentationen** | Viola | Präsentationen in Videos umwandeln |
 
 #### 7.3.1 Gemeinsame Tabellenfunktionen (Buchhaltung → Rechnungen, Bescheide, Sicherheitsdatenblätter)
@@ -93,7 +92,6 @@ Apps sind spezialisierte Oberflächen für strukturierte Daten.
   - **Alle Filter entfernen** setzt alles auf einmal zurück.
   - Ergibt die Filterung keine Treffer, erscheint ein zentrierter Hinweis mit Link zum Entfernen aller Filter.
 - **Spalten ein-/ausblenden:** Über **Spalten**. Das Menü bleibt offen, bis du daneben klickst.
-  - Auch die Spalte **Hinweise** lässt sich ausblenden.
   - Die Auswahl wird pro Teammitglied im Browser gespeichert und beim nächsten Aufruf wieder geladen.
 - **Hinweise-Spalte:** z. B. **Mögliches Duplikat**, unsichere Werte (z. B. „Betrag unklar“, „Handschrift erkannt“), **USt-Prüfung**, **Konto prüfen**, bei SDB **LGK-Prüfung**, bei Bescheiden z. B. unklares Aktenzeichen oder unvollständige Auflagen; Dokumente, die nicht passen (keine Rechnung / kein SDB / kein Bescheid).
 - **Seitengröße:** 20 Einträge pro Seite.
@@ -210,9 +208,9 @@ Workflow in drei Schritten, **ohne Chat**:
 
 ### 7.4 KI-Kennzeichnung (EU AI Act)
 
-- Schalter **KI-Kennzeichnung** in der Bildansicht der **Galerie** und bei **Bildern im Chat**, direkt neben dem Download. Gilt nicht für SVG-Dateien.
+- Schalter **KI-Kennzeichnung** in der Bildansicht der **Galerie** und bei **Bildern im Chat**, direkt neben dem Download. 
 - **Standard: aus.** Beim Einschalten erzeugt kimatik eine gekennzeichnete Kopie des Bildes mit sichtbarer KI-Markierung und speichert sie. Anzeige und Download zeigen dann diese Version.
-- Das **Original bleibt unverändert**. Beim Ausschalten wird die gekennzeichnete Kopie gelöscht.
+- Das **Original bleibt unverändert**. Beim Ausschalten wird die Kennzeichnung entfernt.
 - Die Einstellung gilt pro Bild. Einen globalen Schalter in den Einstellungen gibt es nicht.
 - Schlägt die Kennzeichnung fehl, erscheint „Kennzeichnung fehlgeschlagen“.
 
