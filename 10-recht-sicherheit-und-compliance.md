@@ -87,8 +87,8 @@ Entspricht dem Trust Center auf `kimatik.com/sicherheit-datenschutz`.
 ### 10.7 Human-in-the-Loop in der App
 
 - **Ivana:** Belege stehen zunächst auf **Entwurf** und werden erst über **Speichern & freigeben** übernommen.
-- **Redaktionsplan:** Veröffentlichung nur über den Statuswechsel durch die Nutzer:innen.
-- **Emil (auf Anfrage):** Kalenderänderungen und ClickUp-Aufgaben nur nach Bestätigung.
+- **Redaktionsplan:** Veröffentlichung nur durch die Nutzer:innen.
+- **Emil (auf Anfrage):** Kalenderänderungen und ClickUp-Aufgaben nur nach Bestätigung. E-Mails können nicht von Emil verschickt werden. 
 - **Stefan:** GHS-Symbole und Lagerklasse werden regelbasiert berechnet, nicht von der KI geschätzt.
 
 ### 10.8 EU AI Act: KI-Kennzeichnung
