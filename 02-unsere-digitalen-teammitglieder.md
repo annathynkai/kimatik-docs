@@ -46,7 +46,7 @@ Credit-Richtwerte stammen von der Website; der tatsächliche Verbrauch hängt vo
 
 #### Penelope Photo — Bildproduzentin
 
-„Ich erstelle Marken-Bilder und Außenaufnahmen für deine Posts.“
+„Ich erstelle Marken-Bilder, Illustrationen und bearbeite deine bestehenden Bilder.“
 
 - **Aufgaben:**
   - KI-Fotos: Portraits, Produktbilder, Markenbilder, Stimmungsbilder, Außenaufnahmen, Mockups.
@@ -57,7 +57,7 @@ Credit-Richtwerte stammen von der Website; der tatsächliche Verbrauch hängt vo
   - **Bilder erweitern** (Outpainting).
   - **Montage / Collage**: mehrere Bilder kombinieren, **Logo** oder **QR-Code** einsetzen.
   - **Größe und Format anpassen** (z. B. auf Social-Media-Maße).
-- **KI-Kennzeichnung (EU AI Act):** Jedes Bild kann in der Bildansicht (Chat und Galerie) mit dem Schalter **KI-Kennzeichnung** mit einer sichtbaren KI-Markierung versehen werden. Standardmäßig ist der Schalter **aus**; beim Einschalten wird eine gekennzeichnete Kopie erzeugt und gespeichert (das Original bleibt unverändert), der Download liefert dann die gekennzeichnete Version. Ausschalten löscht die Kopie wieder.
+- **KI-Kennzeichnung (EU AI Act):** Jedes Bild kann in der Bildansicht (Chat und Galerie) mit dem Schalter **KI-Kennzeichnung** mit einer sichtbaren KI-Markierung versehen werden. Standardmäßig ist der Schalter **aus**; beim Einschalten wird eine gekennzeichnete Kopie erzeugt und gespeichert (das Original bleibt unverändert), der Download liefert dann die gekennzeichnete Version. 
 - **Profil-Vorgaben:** Bildstil, Kleidungsstil und Farbschema sind für Portraits verbindlich (der Profilname selbst ist nur ein Label). Zusätzlich lässt sich eine **Referenzbild-Collage** (bis zu 4 Bilder) hinterlegen.
 - **App:** Erzeugte Bilder landen automatisch in der **Galerie** (Mediengalerie).
 - **Zugriffswege:** Chat, Galerie.
@@ -134,14 +134,13 @@ Diese Teammitglieder sind im Marktplatz sichtbar, können aber noch nicht selbst
 Fähigkeiten: Rechtschreibung & Grammatik, Zeichensetzung, Formulierungen glätten (ohne den Ton zu verändern), Korrektur mit Begründung, Website-Monitoring (z. B. monatliche Prüfung der Website).
 
 **Emil Email — Outlook-/E-Mail- & Kalender-Assistent**
-„Ich finde und beantworte Mails in Outlook, verwalte deinen beruflichen Kalender und übergebe Anfragen an Sandra – damit der Kontakt nicht im Posteingang versandet.“
+„Ich finde und beantworte Mails und verwalte deinen Kalender – damit der Kontakt nicht im Posteingang versandet.“
 Fähigkeiten:
 - E-Mails finden und suchen (nach Ordner, Absender, Konversation, ungelesen).
 - Entwürfe und Antworten verfassen.
 - Newsletter zusammenfassen.
-- Beruflichen Kalender verwalten: freie Slots finden, Termine anlegen, ändern, löschen — immer mit Bestätigung.
-- Support-Antworten aus der Produktdoku.
-- Anfragen an Sandra übergeben.
+- Kalender verwalten: freie Slots finden, Termine anlegen, ändern, löschen — immer mit Bestätigung.
+- Support-Antworten aus dem Wissen.
 
 In der App ist die technische Grundlage bereits vorhanden: Unter **Einstellungen → Verbindungen** lassen sich **Outlook** („Mails lesen, Entwürfe senden und den Kalender für Emil“) und **ClickUp** („Aufgaben suchen und nach deiner Bestätigung anlegen“) verbinden.
 
